@@ -133,7 +133,7 @@ body.night {
 }
 .header__menu {
     display:flex;
-    align-items:center
+    align-items:center;
 }
 
 hr {
